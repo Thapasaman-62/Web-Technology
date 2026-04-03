@@ -1,0 +1,11 @@
+.internal-text {
+      color: darkgreen;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      text-align: center;
+      padding: 20px;
+    }

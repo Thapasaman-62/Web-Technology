@@ -1,0 +1,31 @@
+header {
+  background-color: #0A2540; 
+  display: block;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+main {
+  background-color: #F9FAFB; 
+  display: block;
+  padding: 10px;
+  color: #1F2937;
+}
+
+footer {
+  background-color: #111827; 
+  display: block;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+div {
+  background-color: #2563EB; 
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 4px;
+  font-weight: 500;
+}
+

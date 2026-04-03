@@ -1,0 +1,17 @@
+body { margin: 0; font-family: sans-serif; }
+    nav {
+      background: yellow;
+      display: flex;
+      justify-content: center;
+    }
+    nav a {
+      padding: 15px 20px;
+      text-decoration: none;
+      color: #000;
+      border-right: 1px solid #000;
+    }
+    nav a:last-child { border-right: none; }
+    nav a:hover {
+      background: purple;
+      color: #fff;
+    }

@@ -1,0 +1,9 @@
+ h1{
+      text-align: center;
+      margin: 50px;
+    }
+  *{
+    background-color: rgb(247, 40, 112);
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
